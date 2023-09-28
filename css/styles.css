@@ -42,21 +42,21 @@ header nav {
     color: #fff;
 }
 
-#bottom-header {
+#botton-header {
     font-size: 0.8rem;
     padding: 1rem;
     border-bottom: 1px solid #ccc;
 }
 
-#bottom-header h3 {
+#botton-header h3 {
     font-size: 1.2rem;
 }
 
-#bottom-header a {
+#botton-header a {
     color: #333;
 }
 
-#bottom-header-inner {
+#botton-header-inner {
     max-width: 1000px;
     margin: 0 auto;
     display: flex;
@@ -64,10 +64,10 @@ header nav {
     align-items: center ;
 }
 
-#bottom-header-inner a {
+#botton-header-inner a {
     margin: 0 0.5rem;
 }
-#bottom-header-inner .btn,
+#botton-header-inner .btn,
 .btn {
     background-color: #0071e3;
     border-radius: 10rem;
